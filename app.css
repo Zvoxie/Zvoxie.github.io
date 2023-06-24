@@ -52,3 +52,11 @@ body {
 .div-4 {
     margin-left: 1250px;
     }
+.a-2 {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    position: relative;
+    left: 300px;
+    bottom: 70px;
+}
