@@ -79,3 +79,28 @@ height: 50px;
     margin-top: 200px;
     margin-left: 60px;
 }
+.btn-3  {
+    outline: white;
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    border-radius: 250px;
+    background: #252527;
+    border-color:#252527;
+    padding: 5px;
+    width: 1320px;
+    height: 250px;
+    opacity: 0.3; 
+ }
+.div-7{
+    position: relative;
+    right: 35px;
+    bottom: 270px;
+    padding:20px
+}
+h3{
+    color: white;
+    font-family: verdana;
+    font-size: 30px;
+    margin-left:50px
+ }
